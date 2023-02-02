@@ -1,5 +1,0 @@
-- Create a github account if you haven’t already done so and associate it with your UMBC email address.
-- Create a basic webpage in HTML that looks somewhat presentable. You should look into using some CSS frameworks to make it look like something not from 1995. The website should have a main page, menu/navigation, and an about you page (add a few fun things about yourself).  
-  - This small webpage must also be present in your github for verification. CSS Frameworks to look into - Bootstrap, Foundation, Vue.JS, etc. While the website doesn’t have to be terribly pretty, it should look like you put some effort into the design. You can put a few more pages and link the navigation accordingly. 
-- Create an account on Jira - https://www.atlassian.com/software/jira .  You don’t need to set anything up, but I encourage you to play around with it a bit and get to know the interface. 
-- Submit Github URL and JIRA URL via Blackboard.
